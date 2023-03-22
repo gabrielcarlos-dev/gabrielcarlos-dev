@@ -33,4 +33,4 @@ contact email:
 <br>
 <br>
 
-![Gabriel stats](https://github-readme-stats.vercel.app/api?username=gabrielcarlos-dev&show_icons=true&theme=radical)
+
