@@ -33,4 +33,4 @@ contact email:
 <br>
 <br>
 
-
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarlos-dev&theme=blue-green">
