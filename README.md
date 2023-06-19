@@ -23,7 +23,7 @@ and in the future become full stack
 My social networks:
 <br>
 <ul>
-  <li><a href= "https://www.instagram.com/gabrieldev___/" target= "_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></li>
+  <li><a href= "https://www.instagram.com/__gabriel__._._/" target= "_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></li>
   <li><a href= "https://www.linkedin.com/in/gabrieldev---/" target= "_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></li>
 </ul>
 <br>
