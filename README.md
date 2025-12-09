@@ -32,6 +32,3 @@ contact email:
 :email:gabrielcarlos200211@gmail.com
 <br>
 <br>
-
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarlos-dev&theme=blue-green">
-<img src= "https://github-readme-stats.vercel.app/api?username=gabrielcarlos-dev&theme=blue-green">
